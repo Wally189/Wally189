@@ -1,29 +1,65 @@
-JMJ  
-> “To every thing there is a season, and a time to every purpose under the heaven.” (Ecclesiastes 3:1)  
-> A Thiarna, déan trócaire orainn. (Ár nAthair, atá ar neamh.)
+## Alan W. P. Gallagher  
+**Systems • Structure • Stewardship**
 
-# Alan W. P. Gallagher · Systems, Web & Civic Design
+I design and maintain calm, humane digital systems for people, parishes, and public services — especially where clarity, order, and trust matter.
 
-I design and build **calm, ordered digital systems** for real people — from organisational tools to personal consoles and civic frameworks.
+My work sits at the intersection of:
+- **public service and civic responsibility**,  
+- **practical digital design**, and  
+- **the long traditions of order, rhythm, and stewardship found in monastic and civic life**.
 
-- 🏥 **NHS Digital** – governance spines, SharePoint structures, dashboards.
-- 🌐 **Web & Front-End** – HTML / CSS / JS sites with strong UX, accessibility and narrative.
-- 🕊️ **WayLight** – a civic operating idea focused on peace, clarity and community standards.
-- 🎛️ **PlayTrix Console** – a personal “organiser OS” to tame tasks, tools and life domains.
-- 🇮🇪 **Na h’Éireann** – modern Irish systems-thinking, law, monastic networks and diaspora.
+I am based in the UK and work primarily within healthcare, local services, and small organisations who value stability over spectacle.
 
-## What I’m working on
+---
 
-- `alanwgallagher-site` – my main portfolio and contact hub.  
-- `playtrix-console` – browser-based console that links tools, calendars and methods.  
-- `waylight-commonwealth` – public civic methods, charters and learning resources.  
-- `ipc-explainer` – plain-language IPC education for healthcare staff and the public.
+## What I Do
 
-## How I like to work
+### 🏥 Health & Public Sector Systems  
+Designing clear, maintainable structures for NHS and public-sector teams — dashboards, information flows, documentation systems, and governance frameworks that actually get used.
 
-- **Inform · Educate · Entertain** – in that order.  
-- Opinion-light, **structure-heavy**.  
-- Prefer small, reusable components over big, shouty platforms.
+### 🌐 Web & Digital Design  
+Accessible, durable websites built with plain HTML, CSS and light JavaScript.  
+No bloat. No dark patterns. Built to last and to be understood.
 
-If you’d like help bringing order to your systems, governance or websites, feel free to open an issue in any repo or contact me via my portfolio site.
+### 🕊️ WayLight  
+A civic and moral framework for order, responsibility, and shared life — informed by Catholic social teaching, Benedictine order, and practical governance.
 
+### 🎛️ PlayTrix Console  
+A personal operating system for work and life: calendars, task flows, learning, and reflection brought together in one calm interface.
+
+### 🇮🇪 Na hÉireann  
+Research and systems thinking rooted in Irish history, language, and civic memory — especially how older communal structures can inform modern organisation.
+
+---
+
+## How I Work
+
+- **Order before ornament**
+- **Clarity over cleverness**
+- **Small, reusable systems rather than sprawling platforms**
+- **Human-scale tools that respect attention and time**
+
+I design things that can be maintained by ordinary people, not just specialists.
+
+---
+
+## Current Work
+
+- `alanwpgallagher.info` – primary portfolio and point of contact  
+- `playtrix-console` – personal operating system for work and life  
+- `waylight-commonwealth` – shared civic tools and frameworks  
+- `ipc-explainer` – plain-language infection prevention guidance  
+
+---
+
+## Ethos
+
+I work quietly, deliberately, and with a sense of duty.
+
+If you are trying to bring order to complexity — in a parish, a workplace, a service, or a life — and want something that will still make sense in ten years’ time, you are welcome to get in touch.
+
+---
+
+*Fiat lux. Let there be order.*
+
+If you’d like, I can next:
